@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+@media screen and (min-width:1000px) {
+    .main-first{
+        background:  url('assets/rode2.jpg');; 
+        height: 100vh;
+        /* margin-top: 90px; */
+        background-position: center;
+        background-size: cover;
+    }
+    .main-second{
+        background:  url('assets/rode3.jpg');; 
+        height: 100vh;
+        /* margin-top: 90px; */
+        background-position: center;
+        background-size: cover;
+    }
+    .main-third{
+        background:  url('assets/rode4.jpg');; 
+        height: 100vh;
+        /* margin-top: 90px; */
+        background-position: center;
+        background-size: cover;
+    }
+    .main-fourth{
+        background:  url('assets/rode5.jpg');; 
+        height: 100vh;
+        /* margin-top: 90px; */
+        background-position: center;
+        background-size: cover;
+    }
+    .main-fifth{
+        background:  url('assets/rode6.jpg');; 
+        height: 100vh;
+        /* margin-top: 90px; */
+        background-position: center;
+        background-size: cover;
+    }
+    .main-sixth{
+        background:  url('assets/rode7.jpg');; 
+        height: 100vh;
+        /* margin-top: 90px; */
+        background-position: center;
+        background-size: cover;
+    }
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}  
